@@ -18,3 +18,6 @@ to exit log editer hold Shift + zz
 git log --oneline
 git commit -a -m "shortcut"
 git status -s
+
+git remote add origin git@github.com:ajay4github/aj.demo.git
+git push origin master
