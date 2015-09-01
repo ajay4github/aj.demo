@@ -1,7 +1,7 @@
 ls
 git config --global user.name "ajay"
 git config --global user.email "ajay@test.com"
-git init myproject
+git init gitproject
 cd myproject
 ls
 git status
@@ -21,3 +21,4 @@ git status -s
 
 git remote add origin git@github.com:ajay4github/aj.demo.git
 git push origin master
+aj123
