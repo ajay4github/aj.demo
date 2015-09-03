@@ -26,3 +26,6 @@ git gui
 git branch
 git branch part2
 git checkout part2
+git add .
+git commit -m "chnage"
+git push origin part2
