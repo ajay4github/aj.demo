@@ -24,3 +24,10 @@ git push origin master
 aj123
 git gui
 part2 starts (cloning, branching, merging and forking)
+git clone git@github.com:ajay4github/aj.demo.git
+cd aj.demo
+git log --oneline
+git branch part3
+git add .
+git commit -m "part3 commit"
+git push origin part3
