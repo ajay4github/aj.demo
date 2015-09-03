@@ -23,3 +23,4 @@ git remote add origin git@github.com:ajay4github/aj.demo.git
 git push origin master
 aj123
 git gui
+part2 starts (cloning, branching, merging and forking)
