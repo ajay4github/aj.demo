@@ -30,4 +30,4 @@ git add .
 git commit -m "chnage"
 git push origin part2
 part2 starts (cloning, branching, merging and forking)
-
+git merge master
